@@ -5,17 +5,28 @@ An astute and result oriented professional offering 6+ years of experience in Li
 •	AWS Solutions Architect Associate.
 
 ## Technical Skills:
-•	Cloud & Virtualization: AWS (EC2, S3, VPC, IAM), Docker, VMware, OpenStack
-•	Operating Systems: Linux (Red Hat, Ubuntu, CentOS), Windows Server
-•	Configuration Management: Ansible
-•	Automation & Scripting: Python, Bash
-•	Monitoring & Logging: Prometheus, Grafana, Nagios
-•	Networking: TCP/IP, DNS, DHCP, VPN, VLAN
-•	Security: RAID, NAC (PacketFence), Iredmail, RADIUS, IPAM, LDAP, lAM
-•	Version Control: GIT, SVN
-•	Application Servers:  Apache HTTP, Nginx
-•	Databases: MySQL, PostgreSQL
-•	Microservices: Microservices Architecture,
+#### •	Cloud & Virtualization: 
+AWS (EC2, S3, VPC, IAM), Docker, VMware, OpenStack<br>
+#### •	Operating Systems: 
+Linux (Red Hat, Ubuntu, CentOS), Windows Server<br>
+#### •	Configuration Management: 
+Ansible <br>
+#### •	Automation & Scripting: 
+Python, Bash Shell Script <br>
+#### •	Monitoring & Logging: 
+Prometheus, Grafana, Nagios <br>
+#### •	Networking: 
+TCP/IP, DNS, DHCP, VPN, VLAN, Load Balancing, <br>
+#### •	Security: 
+RAID, NAC (PacketFence), Iredmail, RADIUS, IPAM, LDAP, lAM <br>
+#### •	Version Control: 
+GIT, SVN <br>
+#### •	Application Servers:  
+Apache HTTP, Nginx <br>
+#### •	Databases: 
+MySQL, PostgreSQL, DB Clustering <br>
+#### •	Microservices: 
+Microservices Architecture,
 
 ## Professional Experience: 
 ###  System Engineer
