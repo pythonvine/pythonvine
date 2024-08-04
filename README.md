@@ -18,62 +18,62 @@ An astute and result oriented professional offering 6+ years of experience in Li
 •	Microservices: Microservices Architecture,
 
 ## Professional Experience: 
-#  System Engineer
-# Tech Bridge Innovation Pvt. Ltd.						     June 2023 - Present
-•	Migrated various applications from on-premises servers to the cloud (AWS), ensuring smooth transition and improved scalability.
-•	Designed and implemented highly-available cloud infrastructures using AWS.
-•	Automated cloud-based resource management with Python scripts.
-•	Managed 24/7 availability of Linux servers for monitoring tools.
-•	Utilized AWS services (EC2, S3, VPC, IAM) for efficient cloud operations.
-•	Troubleshooted complex technical issues related to network configurations.
-•	Address and improve product-related issues using JIRA to enhance customer satisfaction.
-•	Proficient in scripting for automation and administration.
-•	Supporting application deployments, building new systems, and upgrading and patching existing ones.
-•	Configuring Security Groups to allow/deny the traffic based upon ports, protocols and IP addresses.
-•	Implemented and managed RAID configurations for data redundancy and security.
-•	Designed and deployed AAA (Authentication, Authorization, and Accounting) protocols for access control.
-•	Established and maintained IPAM (IP Address Management) for efficient IP allocation and tracking.
-•	Integrated and configured LAM/LDAP for centralized user authentication and identity management.
-•	Enforced Network Access Control (NAC) using PacketFence to restrict unauthorized devices.
-•	Automate tasks using BASH and Python.
+###  System Engineer
+#### Tech Bridge Innovation Pvt. Ltd.						     June 2023 - Present
+•	Migrated various applications from on-premises servers to the cloud (AWS), ensuring smooth transition and improved scalability.<br>
+•	Designed and implemented highly-available cloud infrastructures using AWS.<br>
+•	Automated cloud-based resource management with Python scripts.<br>
+•	Managed 24/7 availability of Linux servers for monitoring tools.<br>
+•	Utilized AWS services (EC2, S3, VPC, IAM) for efficient cloud operations.<br>
+•	Troubleshooted complex technical issues related to network configurations.<br>
+•	Address and improve product-related issues using JIRA to enhance customer satisfaction.<br>
+•	Proficient in scripting for automation and administration.<br>
+•	Supporting application deployments, building new systems, and upgrading and patching existing ones.<br>
+•	Configuring Security Groups to allow/deny the traffic based upon ports, protocols and IP addresses.<br>
+•	Implemented and managed RAID configurations for data redundancy and security.<br>
+•	Designed and deployed AAA (Authentication, Authorization, and Accounting) protocols for access control.<br>
+•	Established and maintained IPAM (IP Address Management) for efficient IP allocation and tracking.<br>
+•	Integrated and configured LAM/LDAP for centralized user authentication and identity management.<br>
+•	Enforced Network Access Control (NAC) using PacketFence to restrict unauthorized devices.<br>
+•	Automate tasks using BASH and Python.<br>
 •	Monitor and ensure security for Linux systems.
-## Technical Support Engineer
-# Panamax InfoTech Ltd.							      December 2022 - May 2023
-•	Configure and troubleshoot Linux-based applications.
-•	Managed LVM such as Create LV, extend and reduce disk space.
-•	Manage cloud platforms with Kubernetes and Docker.
-•	Manage CI/CD pipelines using Jenkins and AWS DevOps.
-•	Develop customer service procedures to enhance efficiency.
-•	Provide live chat support for fintech and banking systems.
+### Technical Support Engineer
+#### Panamax InfoTech Ltd.							      December 2022 - May 2023
+•	Configure and troubleshoot Linux-based applications.<br>
+•	Managed LVM such as Create LV, extend and reduce disk space.<br>
+•	Manage cloud platforms with Kubernetes and Docker.<br>
+•	Manage CI/CD pipelines using Jenkins and AWS DevOps.<br>
+•	Develop customer service procedures to enhance efficiency.<br>
+•	Provide live chat support for fintech and banking systems.<br>
 •	Migration of various applications from on-premises servers to the cloud.
-## Linux System Administrator
-# Shroti Telecom Pvt. Ltd.							      May 2022 - November 2022
-•	Manage and maintain Linux servers.
-•	RAID configuration and Management.
-•	Configure NAS, LDAP and AAA Radius servers.
-•	Automate tasks using BASH and Python.
-•	Monitor and ensure security for Linux systems.
+### Linux System Administrator
+#### Shroti Telecom Pvt. Ltd.							      May 2022 - November 2022
+•	Manage and maintain Linux servers.<br>
+•	RAID configuration and Management.<br>
+•	Configure NAS, LDAP and AAA Radius servers.<br>
+•	Automate tasks using BASH and Python.<br>
+•	Monitor and ensure security for Linux systems.<br>
 •	Configured and administered iRedmail server for secure and reliable email management.
-## Network Engineer
-# Altis Industries Pvt. Ltd.							    October 2019 - December 2021
-•	Design and maintain secure LAN/WAN networks.
-•	Manage network infrastructure and devices including Cisco routers and switches.
-•	Configure network services and conduct regular assessments for vulnerabilities.
-•	User Managed and created on the Window Server 2012 RT with Domain Controller 
-## Support Engineer
-# DSK Digital Technology Pvt. Ltd.						    March 2018 - September 2019
-•	Resolve technical issues related to software, hardware, and networking.
-•	Maintain customer service documentation.
-•	Provide high-quality technical support and troubleshooting.
+### Network Engineer
+#### Altis Industries Pvt. Ltd.							    October 2019 - December 2021
+•	Design and maintain secure LAN/WAN networks.<br>
+•	Manage network infrastructure and devices including Cisco routers and switches.<br>
+•	Configure network services and conduct regular assessments for vulnerabilities.<br>
+•	User Managed and created on the Windows Server 2012 RT with Domain Controller.
+### Support Engineer
+#### DSK Digital Technology Pvt. Ltd.						    March 2018 - September 2019
+•	Resolve technical issues related to software, hardware, and networking.<br>
+•	Maintain customer service documentation.<br>
+•	Provide high-quality technical support and troubleshooting.<br>
 •	Implemented and managed RAID configurations for data redundancy and security.
 ## Additional Information
-•	Proficient in interpersonal communication and collaboration.
-•	Strong analytical and problem-solving skills.
-•	Self-motivated and results-oriented with a commitment to continuous learning.		
+•	Proficient in interpersonal communication and collaboration.<br>
+•	Strong analytical and problem-solving skills.<br>
+•	Self-motivated and results-oriented with a commitment to continuous learning.
 ## Education:
-•	Bachelor of Engineering in Electronics and Telecommunication
+•	Bachelor of Engineering in Electronics and Telecommunication<br>
 IET DAVV, Indore M.P.										June 2017
-•	Diploma of Engineering in Electronics and Telecommunication
+•	Diploma of Engineering in Electronics and Telecommunication<br>
 Govt Polytechnical College, Rewa								 June 2013
 
 
