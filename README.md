@@ -1,6 +1,81 @@
 # 💫 About Me:
 An astute and result oriented professional offering 6+ years of experience in Linux System engineer, Production supporting, Automation, Configuration Management, Continuous Integration (CI), Continuous Deployment, Release Management, Customer facing, Strong business acumen and rich technical and functional experience to Design and Implementing Organization Infra and Network strategy in Linux and windows servers along with adopting cloud strategies based on Amazon Web Services with years of certification as a Certified AWS Solution Associate. <br><br>•	Configured EC2 Auto Scaling with Elastic Load Balancing in cross-AZ and multi-AZ for high availability and fault tolerance<br>•	Ability to create High availability in AWS across multiple AZ.<br>•	Creating Cloud front and Cloud watch. Proficient in AWS Cloud platform and its features which includes EC2, EBS, CLOUDWATCH, S3, IAM, CLOUD FORMATION, GLACIER, RDS, ROUTE53, RDS, VPC, SNS, AWS ControlTower, AWSBackup, ELB, ELASTIC OPSWORKS,CLOUD FRONT,AWS IMPORT EXPORT,SES,ELASTIC BEANSTALK, Auto Scaling, etc.<br>•	Create IAM roles, users, and groups along with implemented MFA to provide additional security to AWS account and its resources.<br>•	VPC Creating, Managing and Peering.<br>•	Create /Manage AMI/Snapshots/Volumes, Upgrade/Downgrade AWS resources (CPU, Memory, EBS).<br>•	Working Experience Network diagnostics in Linux systems.<br>•	Working Experience in System monitoring. Checking log and troubleshoot.<br>•	Expertise in High-Availability, Fault Tolerance, Scalability, Database Concepts, System and Software Architecture, Security, Infrastructure, Virtualization, and Internet Technologies.<br>•	Configured Ansible master servers and established communication between clients through Ssh authentication on Linux servers.<br>•	Migration of various application on RHEL servers from 6.7 to 7.3 on cloud<br>•	Ability to support application deployments, building new systems and upgrading and patching existing ones.<br>•	Team player with excellent interpersonal skills, self-motivated, dedicated and understanding the demands of 24/7 systems.<br>•	Played a key role in planning and driving strategic organizational initiatives of innovation and career development; steered transformation of organizational practices with focus on leveraging it as a strategic tool for business. Harnessed new technology to make better business decisions and improved efficiency and customer satisfaction.<br>•	Automate task and data manipulation with python.<br>•	Multi stage Dockerization, and Containerisation, and CI/DC pipeline, Jenkin<br>
 
+## Certifications
+•	AWS Solutions Architect Associate.
+
+## Technical Skills:
+•	Cloud & Virtualization: AWS (EC2, S3, VPC, IAM), Docker, VMware, OpenStack
+•	Operating Systems: Linux (Red Hat, Ubuntu, CentOS), Windows Server
+•	Configuration Management: Ansible
+•	Automation & Scripting: Python, Bash
+•	Monitoring & Logging: Prometheus, Grafana, Nagios
+•	Networking: TCP/IP, DNS, DHCP, VPN, VLAN
+•	Security: RAID, NAC (PacketFence), Iredmail, RADIUS, IPAM, LDAP, lAM
+•	Version Control: GIT, SVN
+•	Application Servers:  Apache HTTP, Nginx
+•	Databases: MySQL, PostgreSQL
+•	Microservices: Microservices Architecture,
+
+## Professional Experience: 
+#  System Engineer
+# Tech Bridge Innovation Pvt. Ltd.						     June 2023 - Present
+•	Migrated various applications from on-premises servers to the cloud (AWS), ensuring smooth transition and improved scalability.
+•	Designed and implemented highly-available cloud infrastructures using AWS.
+•	Automated cloud-based resource management with Python scripts.
+•	Managed 24/7 availability of Linux servers for monitoring tools.
+•	Utilized AWS services (EC2, S3, VPC, IAM) for efficient cloud operations.
+•	Troubleshooted complex technical issues related to network configurations.
+•	Address and improve product-related issues using JIRA to enhance customer satisfaction.
+•	Proficient in scripting for automation and administration.
+•	Supporting application deployments, building new systems, and upgrading and patching existing ones.
+•	Configuring Security Groups to allow/deny the traffic based upon ports, protocols and IP addresses.
+•	Implemented and managed RAID configurations for data redundancy and security.
+•	Designed and deployed AAA (Authentication, Authorization, and Accounting) protocols for access control.
+•	Established and maintained IPAM (IP Address Management) for efficient IP allocation and tracking.
+•	Integrated and configured LAM/LDAP for centralized user authentication and identity management.
+•	Enforced Network Access Control (NAC) using PacketFence to restrict unauthorized devices.
+•	Automate tasks using BASH and Python.
+•	Monitor and ensure security for Linux systems.
+## Technical Support Engineer
+# Panamax InfoTech Ltd.							      December 2022 - May 2023
+•	Configure and troubleshoot Linux-based applications.
+•	Managed LVM such as Create LV, extend and reduce disk space.
+•	Manage cloud platforms with Kubernetes and Docker.
+•	Manage CI/CD pipelines using Jenkins and AWS DevOps.
+•	Develop customer service procedures to enhance efficiency.
+•	Provide live chat support for fintech and banking systems.
+•	Migration of various applications from on-premises servers to the cloud.
+## Linux System Administrator
+# Shroti Telecom Pvt. Ltd.							      May 2022 - November 2022
+•	Manage and maintain Linux servers.
+•	RAID configuration and Management.
+•	Configure NAS, LDAP and AAA Radius servers.
+•	Automate tasks using BASH and Python.
+•	Monitor and ensure security for Linux systems.
+•	Configured and administered iRedmail server for secure and reliable email management.
+## Network Engineer
+# Altis Industries Pvt. Ltd.							    October 2019 - December 2021
+•	Design and maintain secure LAN/WAN networks.
+•	Manage network infrastructure and devices including Cisco routers and switches.
+•	Configure network services and conduct regular assessments for vulnerabilities.
+•	User Managed and created on the Window Server 2012 RT with Domain Controller 
+## Support Engineer
+# DSK Digital Technology Pvt. Ltd.						    March 2018 - September 2019
+•	Resolve technical issues related to software, hardware, and networking.
+•	Maintain customer service documentation.
+•	Provide high-quality technical support and troubleshooting.
+•	Implemented and managed RAID configurations for data redundancy and security.
+## Additional Information
+•	Proficient in interpersonal communication and collaboration.
+•	Strong analytical and problem-solving skills.
+•	Self-motivated and results-oriented with a commitment to continuous learning.		
+## Education:
+•	Bachelor of Engineering in Electronics and Telecommunication
+IET DAVV, Indore M.P.										June 2017
+•	Diploma of Engineering in Electronics and Telecommunication
+Govt Polytechnical College, Rewa								 June 2013
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aneesharma999/) 
